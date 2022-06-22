@@ -4,7 +4,7 @@ Topics Covered:
 
 - JavaScript
 - Function
--For
+- -For
 - Console.log
 
 Objective of the challenge:
